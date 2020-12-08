@@ -1,13 +1,6 @@
 @charset 'utf-8';
 
-$primay-blue:blue;
-$fw700:700 !important;
-
-.primary{color:$primay-blue;font-weight:$fw700}
-
-
 .ico_com,.ico_coma,.ico_comb{font-size:0;line-height:0}
-
 .ico_com,.ico_comb:before,.ico_coma:after,.level_v:after{content:'';display:inline-block;background:url('./images/ico_level.png') no-repeat;background-size:auto 500px}
 .level_h{width:80px;height:80px;background-position:0 0;border:1px solid #000}
 .level_v{

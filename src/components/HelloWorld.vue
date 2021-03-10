@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2 class="primary">오호호 ㅁ</h2>
+    <h2 class="primary">ddkdkdkkdkr ㅁ</h2>
     <ul>
       <li><i class="ico_com level_h">level h</i></li>
     </ul>

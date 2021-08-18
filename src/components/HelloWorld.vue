@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-     <h2 class="primary">git branch test main</h2>
+     <h2 class="primary">git branch test master</h2>
     <ul>
       <li><i class="ico_com level_h">level h</i></li>
     </ul>

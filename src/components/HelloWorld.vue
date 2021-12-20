@@ -8,7 +8,7 @@
     <p class="level_v">evel v</p>
     <p class="level_v">evel v</p>
     <p class="level_v">evel v</p>
-    <p class="level_v">evel 이것도 확인</p>
+    <p class="level_v">evel 이것도</p>
     <p class="level_v">evel v</p>
     <p class="level_v">evel v</p>
     <p class="level_v">이것도 바꿔봐</p>

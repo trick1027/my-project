@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-     <h2 class="primary">git merge</h2>
+     <h2 class="primary">git merge 이제 알겠지</h2>
     <ul>
       <li><i class="ico_com level_h">level h</i></li>
     </ul>
@@ -11,7 +11,7 @@
     <p class="level_v">evel 이것도</p>
     <p class="level_v">evel v</p>
     <p class="level_v">evel v</p>
-    <p class="level_v">목록추가</p>
+    <p class="level_v">이것도 바꿔봐</p>
     <ul>
       <li>
         <a

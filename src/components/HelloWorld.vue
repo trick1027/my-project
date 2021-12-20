@@ -1,11 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-<<<<<<< HEAD
-     <h2 class="primary">git merge merge</h2>
-=======
-     <h2 class="primary">git merge</h2>
->>>>>>> 2ab157141d90d7b51ffd2cd8567aeb3d670e9853
+     <h2 class="primary">git merge 이걸로</h2>
     <ul>
       <li><i class="ico_com level_h">level h</i></li>
     </ul>
